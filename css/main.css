@@ -711,6 +711,7 @@ progress::-moz-progress-bar {
     padding-left: 0px;
     padding-right: 0px;
     padding: 0 20px;
+    overflow: hidden;
   }
 
   section {
