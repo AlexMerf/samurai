@@ -645,6 +645,7 @@ progress::-moz-progress-bar {
   max-width: 280px;
   max-height: 280px;
   height: auto;
+  margin: 0 auto;
   margin-bottom: 20px;
   overflow: hidden;
 }
