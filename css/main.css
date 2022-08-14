@@ -636,14 +636,14 @@ progress::-moz-progress-bar {
 .about .items {
   display: grid;
   gap: 113px;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(211px, 1fr));
 }
 
 .about .item .img {
   border-radius: 100%;
   width: 100%;
-  max-width: 280px;
-  max-height: 280px;
+  max-width: 211px;
+  max-height: 211px;
   height: auto;
   margin: 0 auto;
   margin-bottom: 20px;
